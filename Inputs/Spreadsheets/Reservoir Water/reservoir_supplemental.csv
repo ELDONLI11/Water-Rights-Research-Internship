@@ -1,0 +1,26 @@
+Record Document Number,WR Doc ID,Certificate Number,Conservancy Board Number,Court Claim Number,Person or Organization,Status,Phase,Stage,Priority Date Claim First Use,Purpose of Use,Number of Connections,Qi,Units of Measure,Qa,Irrigated Acres,WRIA,Region,County,TRS,QQ,Q,Number of Device Types,First Device Type Listed,Number of Sources,First Source Name Listed
+R1-*01168CWRIS,2278090,00106,,,Sultan Electirc Co,Active,Certificate,NA,10/30/1924,Power,,,,800,,7,NWRO,Snohomish,T27.0N/R08.0E/21,SW,NW,2,Surface Water Pump,2,Tomtit Lake
+R1-*01650CWRIS,2278093,00503,,,Puget Sound Power & Light Co,Active,Certificate,NA,03/20/1926,Power,,,,140000,,4,NWRO,Skagit,T35.0N/R08.0E/02,,SW,1,Surface Water Pump,1,Baker River
+R1-*12765CWRIS,2278113,09356,,,AYER FREDERICK II,Active,Certificate,NA,02/15/1954,"Fish Propagation,Wildlife Refuge",,,,,,2,NWRO,San Juan,T36.0N/R02.0W/01,SW,SW,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*17731CWRIS,2278139,09293,,,GOODROW BARNEY N,Active,Certificate,NA,02/12/1963,"Fire Protection,Fish Propagation,Wildlife Refuge",,,,,,2,NWRO,San Juan,T34.0N/R02.0W/11,NE,NW,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*19684CWRIS,2278149,09733,,,OWEN W R,Active,Certificate,NA,05/26/1966,Irrigation,,,,3.37,30,15,NWRO,Kitsap,T26.0N/R01.0E/24,,SE,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*19794CCWRIS,2278150,10448A,,,WA DNR,Active,Certificate,NA,07/27/1966,"Recreation - Beautification,Irrigation",,,,62.3,,7,NWRO,King,T24.0N/R07.0E/34,,SE,1,Headworks (Gravity Flow),1,Icy Creek
+R1-*20344AWRIS,2228242,,,,Pacific Denkmann Co,Inactive,New Application,NA,06/28/1967,Irrigation,,,,150,100,5,NWRO,Snohomish,T32.0N/R04.0E/12,,,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*21617CWRIS,2278174,11718,,,JOHNSON C G & H J,Active,Certificate,NA,05/27/1969,"Recreation - Beautification,Fish Propagation,Irrigation",,,,0.99,7,15,NWRO,Kitsap,T25.0N/R02.0E/28,SW,NW,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*21618CWRIS,2278175,11347,,,JOHNSON C G & H J,Active,Certificate,NA,05/27/1969,"Fish Propagation,Recreation - Beautification,Irrigation",,,,12.43,20,15,NWRO,Kitsap,T25.0N/R02.0E/28,SW,NW,2,Headworks (Gravity Flow),2,Unnamed Stream
+R1-*23137CWRIS,2278179,11822,,,MOSELEY GEORGE O,Active,Certificate,NA,06/07/1971,"Wildlife Refuge,Irrigation",,,,,0.05,2,NWRO,San Juan,T35.0N/R03.0W/36,,,1,Surface Water Pump,1,Unnamed Source
+R1-00678CWRIS,2278199,R1-00678   C,,,LOUTSIS CHRIS J,Active,Certificate,NA,04/15/1969,"Recreation - Beautification,Irrigation",,,,98,25,7,NWRO,King,T26.0N/R06.0E/24,NW,SE,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-20658CWRIS,2278218,R1-20658   C,,,San Juan Golf & Country Club,Active,Certificate,NA,05/30/1973,"Recreation - Beautification,Irrigation",,,,19,9,2,NWRO,San Juan,T35.0N/R03.0W/26,NE,SW,1,Surface Water Pump,1,Unnamed Source
+R1-20659CWRIS,2278219,R1-20659   C,,,San Juan Golf & Country Club,Active,Certificate,NA,05/30/1973,"Recreation - Beautification,Irrigation",,,,7,9,2,NWRO,San Juan,T35.0N/R03.0W/26,SW,NE,1,Surface Water Pump,1,Unnamed Source
+R1-28191,4168403,,,,Sammamish Plateau Water & Sewer Dist,Active,Permit,CC,11/18/2003,Municipal,,1400,CFS,565,,8,NWRO,King,T25.0N/R06.0E/34,,,1,Reservoir Dam,1,
+R1-28192,4168409,,,,Sammamish Plateau Water & Sewer Dist,Active,Permit,PA Notice,11/18/2003,"Municipal,Storage",,400,CFS,200,,7,NWRO,King,T25.0N/R06.0E/13,,,1,Reservoir Dam,1,
+R3-*15247CCWRIS,2137271,,,,KEELEY J,Inactive,Permit,Superseded,01/21/1959,Fish Propagation,,,,,,59,ERO,Stevens,T32.0N/R38.0E/13,SW,NE,1,Headworks (Gravity Flow),1,Klein Creek
+R3-*19273JWRIS,2136976,273,,,Neppel Townsite,Active,Adjudicated Certificate,Final,10/08/1910,"Irrigation,Domestic Single,Stockwater",,,,2640,600,41,ERO,Grant,T18.0N/R28.0E/05,SE,NW,1,Surface Water Pump,1,Moses Lake
+R3-*19314BPCWRIS,2136978,11024,,,DUNCAN J S,Active,Certificate,NA,10/25/1965,"Recreation - Beautification,Irrigation",,,,191,32,62,ERO,Pend Oreille,T32.0N/R45.0E/33,,,1,Headworks (Gravity Flow),1,Unnamed Spring
+R3-00013C,2136992,R3-00013C,,,US Bureau Reclamation,Active,Certificate,NA,04/22/1943,"Municipal,Commercial and Industrial,Recreation - Beautification,Power,Irrigation",,,,200000,234000,41,ERO,Grant,T17.0N/R28.0E/16,,,5,Headworks (Gravity Flow),5,Rocky Ford Creek
+R3-27542C,2137023,R3-27542   C,,,Deer Park City,Active,Certificate,NA,04/15/1983,Irrigation,,,,20,160,55,ERO,Spokane,T28.0N/R42.0E/03,,,1,Well,1,Groundwater
+R3-27543CWRIS,2137024,R3-27543   C,,,Deer Park City,Active,Certificate,NA,04/15/1983,Irrigation,,,,,160,55,ERO,Spokane,T29.0N/R42.0E/35,SE,SE,1,Well,1,Groundwater
+R4-*05958CWRIS,2080257,06053,,,"Mathison, Chris ",ChangeInProgress,Certificate,NA,02/09/1944,Irrigation,,,,45,100,40,CRO,Chelan,T21.0N/R20.0E/14,NE,NE,1,Headworks (Gravity Flow),1,Stemilt Creek
+R4-*16383PWRIS,2034182,,,,CONRAD M B,Inactive,Permit,NA,10/03/1960,"Irrigation,Stockwater",,,,5,15,37,CRO,Yakima,T12.0N/R15.0E/23,,,1,Headworks (Gravity Flow),1,Unnamed Stream
+R4-*18141CWRIS,2079969,09739,,,SCHILLING P,Inactive,Certificate,NA,08/22/1963,"Wildlife Refuge,Irrigation",,,,9.9,25,30,CRO,Klickitat,T05.0N/R15.0E/31,N2,SE,1,Headworks (Gravity Flow),1,Unnamed Stream
+R4-31831,2085769,,,,Stemilt Irrigation District,Active,Permit,Fee,08/04/1993,"Irrigation,Storage",,,,450,821,40,CRO,Chelan,T22.0N/R21.0E/05,,,1,Headworks (Gravity Flow),1,Stemilt Creek

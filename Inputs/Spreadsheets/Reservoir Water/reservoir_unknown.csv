@@ -1,0 +1,30 @@
+Record Document Number,WR Doc ID,Certificate Number,Conservancy Board Number,Court Claim Number,Person or Organization,Status,Phase,Stage,Priority Date Claim First Use,Purpose of Use,Number of Connections,Qi,Units of Measure,Qa,Irrigated Acres,WRIA,Region,County,TRS,QQ,Q,Number of Device Types,First Device Type Listed,Number of Sources,First Source Name Listed
+CR4-28231,4211067,,,,Back to the Wall LLC,Active,Change-ROE,PA Exam,11/02/2004,Storage,,,,225,140,50,CRO,Douglas,T27.0N/R28.0E/23,,,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-*17876C,2285856,,,,Skagit Cnty PUD 1,Active,Certificate,Final,04/24/1963,Municipal,,,,4250,,3,NWRO,Skagit,T35.0N/R05.0E/32,,,1,Surface Water Pump,1,Skagit River
+R1-00744C,2224090,,,,Rainbow Springs Community Club Inc,Active,Certificate,Final,01/14/1966,"Fish Propagation,Recreation - Beautification",,,,61.5,,5,NWRO,Snohomish,T30.0N/R06.0E/11,NE,NW,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-24946,2224155,,,,"Willard, Steve ",Active,Certificate,NA,12/16/1986,"Stockwater,Fish Propagation,Recreation - Beautification,Irrigation",,,,23.5,12,2,NWRO,San Juan,T36.0N/R04.0W/35,SE,NE,2,Reservoir Dam,2,
+R1-24947,2224156,,,,"Willard, Steve ",Active,Certificate,NA,12/15/1986,"Stockwater,Irrigation,Fish Propagation,Recreation - Beautification",,,,74.9,30,2,NWRO,San Juan,T36.0N/R04.0W/36,NE,SW,2,Reservoir Dam,2,
+R1-26692C,2285520,,,,Woodland Ridge Joint Venture,Active,Certificate,NA,08/07/1992,Irrigation,,,,5.5,110,5,NWRO,Snohomish,T31.0N/R05.0E/23,NW,NW,1,Surface Water Pump,1,Unnamed Reservoir
+R1-26857,2224287,,,,Fourth Corner Nurseries,Active,Certificate,NA,01/08/1993,Irrigation,,,,15,30,1,NWRO,Whatcom,T39.0N/R04.0E/29,NW,NW,1,Headworks (Gravity Flow),1,Unnamed Stream
+R1-27060,2284467,,,,"Schiffman, Terry & Brenda ",Inactive,New Application,Rejected,03/31/1993,"Irrigation,Fish Propagation",,,,,60,15,NWRO,Kitsap,T24.0N/R02.0W/25,,,1,Reservoir Dam,1,
+R1-28083,2285808,,,,Lakehaven Utility Dist,Active,Permit,CC,06/08/2000,Municipal,,5000,GPM,7500,,9,NWRO,King,T21.0N/R04.0E/19,,,9,Well,9,Groundwater
+R3-*18497,2144045,,,,Pend Oreille Cnty PUD 1,Inactive,Permit,BC,05/13/1964,Power,,0,CFS,29704,,62,ERO,Pend Oreille,T39.0N/R44.0E/30,SW,SE,1,Reservoir Dam,1,
+R3-26866,2144046,,,,I B P Inc,Inactive,Permit,Cancelled,02/27/1981,Irrigation,,,,200,80,32,ERO,Walla Walla,T08.0N/R31.0E/35,,,1,Well,1,Groundwater
+R3-29616,2144059,,,,Pepper Bridge Land Co,Inactive,New Application,Rejected,01/03/1994,"Fish Propagation,Irrigation,Frost Protection",,,,32,135,32,ERO,Walla Walla,T06.0N/R35.0E/12,NE,SW,1,Well,1,Groundwater
+R3-29694,2088922,,,,"Matney, Mike ",Active,Permit,PA Exam,05/27/1994,"Wildlife Refuge,Fish Propagation,Recreation - Beautification",,0,CFS,585,,59,ERO,Stevens,T32.0N/R41.0E/15,SE,SW,1,Reservoir Dam,1,
+R3-30081,2145901,,,,"Massnick, Jeff ",Inactive,Permit,Cancelled,10/03/1995,"Fish Propagation,Storage",,,,25,0,62,ERO,Pend Oreille,T34.0N/R43.0E/14,,,1,Headworks (Gravity Flow),1,Cusick Creek
+R3-30352,2144952,R3-30352,,,Natural Resources Conservation Service,Active,Certificate,Final,01/31/2002,Environmental Quality,,0,CFS,420,,56,ERO,Spokane,T24.0N/R43.0E/30,SW,SE,1,Reservoir Dam,1,
+R3-30369,2144744,,,,Longwood Limited Partnership,Active,Permit,PA Exam,09/06/2002,"Environmental Quality,Fish Propagation",,0,CFS,177.44,,59,ERO,Stevens,T31.0N/R41.0E/29,SW,SE,1,Reservoir Dam,1,
+R3-30753,6799075,,,,"Brown, Michael ",Active,New Application,AppAccepted,02/18/2016,Storage,,,,144.6,,41,ERO,Grant,T15.0N/R26.0E/05,NW,NW,1,Reservoir Dam,1,
+R4-1,2084669,,,,Oroville Tonasket Irrigation District*,Inactive,Permit,Cancelled,01/12/1918,Irrigation,,,,10500,,49,CRO,Okanogan,T39.0N/R25.0E/02,,,2,Surface Water Pump,2,Similkameen River
+R4-100,2084670,,,,US Bureau Reclamation - Boise,Inactive,Permit,Superseded,10/16/1930,Irrigation,,,,34000,,38,CRO,Yakima,T16.0N/R12.0E/22,,,1,Surface Water Pump,1,Bumping River
+R4-25642,2282915,,,,WA Fish & Widlife Dept - Olympia*,Inactive,Permit,Cancelled,10/15/1977,Environmental Quality,,,,447,,49,CRO,Okanogan,T39.0N/R25.0E/04,,,1,Headworks (Gravity Flow),1,Ninemile Creek
+R4-25806,2283221,,,,M G Farms Inc,Active,Permit,Fee,03/16/1978,"Recreation - Beautification,Frost Protection,Fish Propagation,Irrigation",,,,6.1,,49,CRO,Okanogan,T30.0N/R24.0E/12,,,1,Reservoir Dam,1,
+R4-26153,2283048,,,,WA DNR *,Active,Permit,PA Exam,02/07/1979,Environmental Quality,,,,28,,49,CRO,Okanogan,T31.0N/R25.0E/22,,,1,Surface Water Pump,1,Okanogan River
+R4-28231,2283849,,,,Back to the Wall LLC,ChangeInProgress,Permit,PA Exam,05/31/1983,Storage,,0,CFS,225,,50,CRO,Douglas,T27.0N/R28.0E/23,,,1,Headworks (Gravity Flow),1,Unnamed Stream
+R4-28479,2284008,,,,Asamera Minerals (US) Inc,Inactive,Permit,Cancelled,06/12/1984,Storage,,,,1280,,45,CRO,Chelan,T22.0N/R20.0E/20,,,1,Reservoir Dam,1,
+R4-28654,2283926,,,,Whitestone Reclamation District,Active,Permit,PA Exam,03/28/1995,Storage,,,,960,,49,CRO,Okanogan,T38.0N/R27.0E/17,,,1,Headworks (Gravity Flow),1,Whitestone Creek
+R4-30102,2086757,,,,"Mathison, Kyle ",Active,Permit,PA Exam,08/31/1989,"Irrigation,Storage,Frost Protection",,0,CFS,88,87,40,CRO,Chelan,T22.0N/R21.0E/19,,,3,Surface Water Pump,3,Columbia River
+R4-31741,2038212,,,,Battle Mountain Gold Co,Inactive,Permit,NA,04/30/1993,"Mining,Storage",,,,360,,60,CRO,Okanogan,T40.0N/R30.0E/25,,,1,Headworks (Gravity Flow),1,Toroda Creek
+R4-31989,2086652,,,,R D Merrill Co *,Inactive,New Application,Withdrawn,03/29/1994,"Irrigation,Recreation - Beautification",,,,22,10,48,CRO,Okanogan,T36.0N/R19.0E/26,,,1,Reservoir Dam,1,
+R4-CV1-3P18,2087235,00497,,,Chewuch Canal Company ,Inactive,Certificate of Change,Superseded,03/08/1920,"Storage,Irrigation",,0,CFS,1000,,48,CRO,Okanogan,T35.0N/R21.0E/36,,NW,1,Surface Water Pump,1,Pearrygin Lake
