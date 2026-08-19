@@ -1,32 +1,3 @@
-Record Document Number,WR Doc ID,Certificate Number,Conservancy Board Number,Court Claim Number,Person or Organization,Status,Phase,Stage,Priority Date Claim First Use,Purpose of Use,Number of Connections,Qi,Units of Measure,Qa,Irrigated Acres,WRIA,Region,County,TRS,QQ,Q,Number of Device Types,First Device Type Listed,Number of Sources,First Source Name Listed
-CR4-5527,6804790,05527A,,,Icicle-Peshastin Irrigation District,Inactive,Trust Water Temporary Donation,DonationExpired,09/19/2022,Instream Flow,,,,2000,,45,CRO,Chelan,T25.0N/R13.0E/22,,S2,1,Surface Water Pump,1,Square Lake
-CR4-SWC02514,6801671,02514A,,,Antoine Valley Ranch,Inactive,Trust Water Temporary Donation,DonationExpired,05/18/2018,Instream Flow,,,,222.4,,49,CRO,Okanogan,T39.0N/R28.0E/35,SW,SE,2,Headworks (Gravity Flow),2,Antoine Creek
-CR4-SWC2514,6803298,02514A,,,Trout Unlimited-Washington Water Project - Pelly,Active,Change-ROE,ROE-ROD,12/02/2020,"Instream Flow,Mitigation",,0.62,CFS,277,,49,CRO,Okanogan,T39.0N/R38.0E/35,SW,SE,2,Reservoir Dam,2,Unnamed Reservoir
-R1-21670,2284453,,,,Roche Harbor Water System Inc,Active,Certificate,Final,05/20/1974,Storage,,,,305.2,,2,NWRO,San Juan,T36.0N/R03.0W/30,NW,NW,1,Reservoir Dam,1,Unnamed Pond
-R1-26428,2282687,,,,Roche Harbor Water System Inc,Active,Certificate,Final,12/30/1991,Storage,,,,300,,2,NWRO,San Juan,T36.0N/R03.0W/30,NW,NW,2,Reservoir Dam,2,Unnamed Reservoir
-R1-27814,2271908,,,,"Firnstahl Family Partnership, LLP",Active,Report of Examination,ROE-ROD,05/15/1997,Storage,,0,CFS,62,,5,NWRO,Snohomish,T31.0N/R06.0E/15,SW,SW,1,Reservoir Dam,1,Unnamed Reservoir
-R1-28917,6802521,,,,Oak Knoll LLC,Active,Permit,CC,10/24/2019,Storage,,,,11,,2,NWRO,San Juan,T35.0N/R03.0W/27,SE,NE,1,Reservoir Dam,1,Unnamed Reservoir
-R1-29257,6802785,,,,"Brouwer, Brook  ",Active,Permit,CC,02/20/2020,Storage,,,,15,,2,NWRO,San Juan,T35.0N/R03.0W/22,SE,SW,2,Reservoir Dam,2,Unnamed Reservoir
-R2-*10900CWRIS,6801789,8400,,,"Crisman, Edmund ",Active,Certificate,Final,11/29/1951,Storage,,,,18,,28,SWRO,Clark,T01.0N/R03.0E/04,,,1,Reservoir Dam,1,Crisman Reservoir
-R2-30509,4590379,,,,Tacoma Power,Active,Certificate,Final,02/12/2009,Storage,,700,CFS,8000,,16,SWRO,Mason,T22.0N/R04.0W/22,SE,NW,1,Reservoir Dam,1,Unnamed Reservoir
-R2-30689,6799529,,,,Cosmopolis City,Active,Permit,BC,06/29/2016,Storage,,,,10.4,,22,SWRO,Grays Harbor,T17.0N/R09.0W/23,,,1,Reservoir Dam,1,Unnamed Reservoir
-R2-30739,6801912,,,,Willapa Hills Farms Inc,Active,New Application,AppAccepted,02/14/2019,Storage,,,,30,,23,SWRO,Lewis,T13.0N/R05.0W/14,,,1,Reservoir Dam,1,Unnamed Reservoir
-R2-30789,6803169,,,,HM Pacific Northwest Inc,Active,Permit,PA Notice,08/26/2020,Storage,,,,476,,27,SWRO,Clark,T04.0N/R02.0E/21,SW,SE,1,Reservoir Dam,1,Unnamed Reservoir
-R2-30812,6803805,,,,"Wanot, Jan ",Inactive,Pre-Application Consultation,PreAppAccepted,06/23/2021,Storage,,,,,,26,SWRO,Cowlitz,T13.0N/R04.0E/33,,,1,Reservoir Dam,1,Unnamed Reservoir
-R3-30526,4341013,,,,Walla Walla City,Active,Permit,CC,07/06/2009,Storage,,,,11750,,32,ERO,Walla Walla,T07.0N/R36.0E/13,,,1,Headworks (Gravity Flow),1,Mill Creek
-R3-30869,6802443,,,,Othello City,Active,New Application,AppAccepted,09/17/2019,Storage,,1500,GPM,400,,36,ERO,Adams,T16.0N/R29.0E/14,NW,SE,1,Reservoir Dam,1,
-R3-30915,6803502,,,,Othello City,Active,New Application,AppAccepted,03/23/2021,Storage,,,,500,,36,ERO,Adams,T16.0N/R29.0E/26,SW,SW,1,Reservoir Dam,1,
-R3-30964,6805394,,,,WA State Department of Natural Resources,Active,Report of Examination,ROE-ROD,07/13/2023,Storage,,,,30,,32,ERO,Walla Walla,T07.0N/R31.0E/24,NW,NE,1,Reservoir Dam,1,Lake Wallula
-R3-31009,6806871,,,,"Hennings, Curtis ",Active,New Application,AppAccepted,03/04/2025,Storage,,3,CFS,1080,,34,ERO,Adams,T17.0N/R36.0E/12,NE,SE,1,Reservoir Dam,1,
-R4-*17323,6799100,,,,Douglas Cnty PUD 1,Inactive,New Application,Rejected,06/06/1962,Storage,,,,237000,,50,CRO,Chelan,T27.0N/R24.0E/06,,,1,Surface Water Pump,1,Unnamed Reservoir
-R4-*17374,6799102,,,,Douglas Cnty PUD 1,Inactive,New Application,Rejected,07/05/1962,Storage,,,,237000,,50,CRO,Douglas,T28.0N/R24.0E/06,,,1,Surface Water Pump,1,Unnamed Reservoir
-R4-*17431,6799104,,,,Douglas Cnty PUD 1,Inactive,New Application,Rejected,08/01/1962,Storage,,,,237000,,50,CRO,Douglas,T28.0N/R24.0E/06,,,1,Surface Water Pump,1,Unnamed Reservoir
-R4-*17487,6799106,,,,Douglas Cnty PUD 1,Inactive,New Application,Rejected,08/28/1962,Storage,,,,237000,,50,CRO,Douglas,T28.0N/R24.0E/06,,,1,Surface Water Pump,1,Unnamed Reservoir
-R4-*17542,6799108,,,,Douglas Cnty PUD 1,Inactive,New Application,Rejected,09/15/1962,Storage,,,,237000,,50,CRO,Douglas,T28.0N/R24.0E/06,,,1,Surface Water Pump,1,Unnamed Reservoir
-R4-33179,6799638,,,,US Bureau Reclamation - Yakima,Active,Report of Examination,ROE-ROD,08/26/2016,Storage,,,,436900,,39,CRO,Kittitas,T20.0N/R14.0E/10,NE,NE,1,Reservoir Dam,1,Cle Elum Lake
-R4-33258,6803098,,,,Northwest Surf Parks LLC,Active,New Application,AppAccepted,06/30/2020,Storage,,,,25,,37,CRO,Yakima,T13.0N/R20.0E/20,SE,SE,1,Reservoir Dam,1,
-R4-33263,6803203,,,,Carpenter Ranches LLC,Active,New Application,AppAccepted,08/26/2020,Storage,,,,15.5,,37,CRO,Yakima,T11.0N/R21.0E/29,,,1,Reservoir Dam,1,Unnamed Reservoir
-R4-33266,6803263,,,,Zirkle Fruit Company,Active,New Application,Pending,11/17/2020,Storage,,,,30.1,,37,CRO,Yakima,T11.0N/R21.0E/16,,,1,Reservoir Dam,1,
-R4-33293 Pre-App,6804485,,,,"Ovitt, Jeffrey ",Active,Pre-Application Consultation,PreAppAccepted,04/13/2022,Storage,,,,300000,,40,CRO,Chelan,T01.0N/R01.0E/01,,,1,Reservoir Dam,1,
-R4-36156 Pre-App,6804585,,,,"Uribe, Michael ",Active,Pre-Application Consultation,PreAppAccepted,05/31/2022,Irrigation,,,,6.8,3.4,39,CRO,Kittitas,T20.0N/R16.0E/31,,,1,Reservoir Dam,1,Unnamed Pond
-R4-36249,6807347,S4-84351-J,,,Roza Irrigation  District - Sage Park,Active,New Application,AppReceived,10/09/2025,Storage,,,,100000,72600,37,CRO,Yakima,T09.0N/R24.0E/09,,,1,Reservoir Dam,1,Wanapum Lake
+version https://git-lfs.github.com/spec/v1
+oid sha256:09af296919fff49ba8def9c1751501eef9b0e25b96d4291962c62d3cef452aa4
+size 5892

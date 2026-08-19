@@ -1,6 +1,3 @@
-Record Document Number,WR Doc ID,Certificate Number,Conservancy Board Number,Court Claim Number,Person or Organization,Status,Phase,Stage,Priority Date Claim First Use,Purpose of Use,Number of Connections,Qi,Units of Measure,Qa,Irrigated Acres,WRIA,Region,County,TRS,QQ,Q,Number of Device Types,First Device Type Listed,Number of Sources,First Source Name Listed
-CR4-SWC2514,6803298,02514A,,,Trout Unlimited-Washington Water Project - Pelly,Active,Change-ROE,ROE-ROD,12/02/2020,"Instream Flow,Mitigation",,0.62,CFS,277,,49,CRO,Okanogan,T39.0N/R38.0E/35,SW,SE,2,Reservoir Dam,2,Unnamed Reservoir
-R1-29416,6804283,,,,US Golden Eagle,Active,Permit,BC,11/24/2021,Storage,1,,,30,773,3,NWRO,Skagit,T35.0N/R06.0E/15,SE,SW,1,Reservoir Dam,1,Unnamed Reservoir
-R3-*00326C,5767394,538,,,WA Ecology Department,Active,Certificate,Final,07/21/1919,"Instream Flow,Storage,Mitigation",,,,237.6,,59,ERO,Stevens,T31.0N/R40.0E/17,,,1,Surface Water Pump,1,Waitts Lake
-R3-31009,6806871,,,,"Hennings, Curtis ",Active,New Application,AppAccepted,03/04/2025,Storage,,3,CFS,1080,,34,ERO,Adams,T17.0N/R36.0E/12,NE,SE,1,Reservoir Dam,1,
-R4-34552,2087079,,,,Yakima City *,Active,Permit,CC,04/12/2002,Storage,,9000,GPM,14400,,38,CRO,Yakima,T14.0N/R17.0E/13,,,1,Reservoir Dam,1,
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb1b5b564fc378d9c9427d2bc4369730e71c072df76fbc2c951d3441c749c3c
+size 1249
